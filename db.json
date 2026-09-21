@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Keyboard",
+      "price": 2500,
+      "category": "Electronics",
+      "image": "https://i.ibb.co.com/6Jj5JY0/headphone.jpg",
+      "description": "A comfortable and responsive keyboard that is perfect for programming, office work, and everyday typing."
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 3500,
+      "category": "Electronics",
+      "image": "https://i.ibb.co.com/4gJxQ8S/smartwatch.jpg",
+      "description": "A stylish smart watch with useful features for everyday activities and fitness tracking."
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 2200,
+      "category": "Fashion",
+      "image": "https://i.ibb.co.com/7J3zK6H/shoes.jpg",
+      "description": "Lightweight and comfortable running shoes suitable for walking, running, exercise, and daily use."
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "price": 1800,
+      "category": "Accessories",
+      "image": "https://i.ibb.co.com/8YhLQ5T/backpack.jpg",
+      "description": "A durable backpack with multiple compartments for school, office, travel, and everyday use."
+    },
+    {
+      "id": 5,
+      "name": "Coffee Mug",
+      "price": 500,
+      "category": "Home",
+      "image": "https://i.ibb.co.com/9mKQ2xB/mug.jpg",
+      "description": "A simple ceramic coffee mug that is perfect for coffee, tea, hot chocolate, and other drinks."
+    },
+    {
+      "id": 6,
+      "name": "Mechanical Keyboard",
+      "price": 4200,
+      "category": "Electronics",
+      "image": "https://i.ibb.co.com/3FvN7kP/keyboard.jpg",
+      "description": "A responsive mechanical keyboard designed for comfortable typing, programming, gaming, and office work."
+    }
+  ],
+
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 450,
+      "category": "Fiction",
+      "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e",
+      "description": "A young shepherd follows his dreams and discovers valuable lessons about life, courage, and finding his purpose."
+    },
+    {
+      "id": 2,
+      "title": "Atomic k Habits",
+      "author": "James Clear",
+      "price": 650,
+      "category": "Self Help",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "description": "A practical book about building good habits, breaking bad habits, and making small improvements that create lasting results."
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": 550,
+      "category": "Finance",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+      "description": "A popular personal finance book that discusses money management, financial education, investing, and building wealth."
+    },
+    {
+      "id": 4,
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "price": 600,
+      "category": "Personal Development",
+      "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353",
+      "description": "A book about living in the present moment and developing greater awareness of thoughts, emotions, and everyday life."
+    },
+    {
+      "id": 5,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "price": 500,
+      "category": "Motivation",
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+      "description": "A classic personal development book focused on mindset, goals, persistence, and principles for achieving success."
+    },
+    {
+      "id": 6,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 850,
+      "category": "Programming",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+      "description": "A programming book that explains practical principles and techniques for writing readable, maintainable, and high-quality code."
+    }
+  ]
+}
